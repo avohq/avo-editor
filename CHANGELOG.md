@@ -1,3 +1,10 @@
+## 0.3.0
+
+- Don't open devtools in prod
+- Add traffic lights
+- Dragable header
+- Layout improvements
+
 ## 0.2.0
 
 - Beautify app based on new brand - [@logason](https://github.com/logason)
