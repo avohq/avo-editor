@@ -1,3 +1,7 @@
+## 0.4.0
+
+- Press cmd+k get new codegen files (only tested on macOS at the moment)
+
 ## 0.3.0
 
 - Don't open devtools in prod
