@@ -1,3 +1,7 @@
+## 0.4.1
+
+- Support both ctrl+k and cmd+k (windows support)
+
 ## 0.4.0
 
 - Press cmd+k get new codegen files (only tested on macOS at the moment)
