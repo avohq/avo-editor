@@ -1,3 +1,7 @@
+## 0.5.0
+
+- Add --debug flag to open devtools when launching app
+
 ## 0.4.1
 
 - Support both ctrl+k and cmd+k (windows support)
