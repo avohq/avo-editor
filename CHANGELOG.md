@@ -1,3 +1,7 @@
+## 0.6.0
+
+- Stop generating `Js.Nullable.from_opt` in favour of `Js.Nullable.fromOption` in Reason. This removes a compiler warning from the generated code.
+
 ## 0.5.0
 
 - Add --debug flag to open devtools when launching app
