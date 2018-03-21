@@ -1,3 +1,7 @@
+## 0.8.0
+
+- Commit `analytics.avo` and `.avorc` with hardcoded message `[avo] Update event schema` and push to current branch
+
 ## 0.7.0
 
 - Add sentry for bug tracking
