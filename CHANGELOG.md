@@ -7,6 +7,7 @@
 - Update to Electron 2.0.0 beta
 - Project settings generates a config file (`.avorc`) on every change
 - Icons don't randomly disappear any more
+- Support for codegen outside of project root
 
 ## 0.6.0
 
