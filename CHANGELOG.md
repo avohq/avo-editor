@@ -1,6 +1,6 @@
 ## 0.8.0
 
-- Commit `analytics.avo` and `.avorc` with hardcoded message `[avo] Update event schema` and push to current branch
+- Commit `analytics.avo` and `.avorc` with hardcoded message `[avo] Update event schema` and push to current branch with cmd+p
 
 ## 0.7.0
 
