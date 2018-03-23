@@ -1,3 +1,7 @@
+## 0.9.1
+
+- Fixing startup error
+
 ## 0.9.0
 
 - Toast when actions are fired (generate code, copy URL to clipboard, etc)
