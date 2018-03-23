@@ -1,3 +1,9 @@
+## 0.9.0
+
+- Toast when actions are fired (generate code, copy URL to clipboard, etc)
+- CLI now accepts cwd to set a project root outside of the current directory open in terminal
+- Generated code includes logs when events are sent in dev
+
 ## 0.8.0
 
 - Commit `analytics.avo` and `.avorc` with hardcoded message `[avo] Update event schema` and push to current branch with cmd+p
