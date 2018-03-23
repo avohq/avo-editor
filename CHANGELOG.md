@@ -1,3 +1,8 @@
+## 0.9.2
+
+- Bug fixes in property definitions
+- Make sure that argument parsing doesn't crash the app
+
 ## 0.9.1
 
 - Fixing startup error
