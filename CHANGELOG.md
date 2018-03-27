@@ -1,3 +1,7 @@
+## 0.11.0
+
+- Revenue event support for amplitude (you might need to toggle your analytics tool in project settings to enable it)
+
 ## 0.10.1
 
 - Fix codegeneration when using cwd option
