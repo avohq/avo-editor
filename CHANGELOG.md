@@ -1,3 +1,10 @@
+## 0.10.0
+
+- Bug fixes regarding file handling when opening app with CWD
+- Actionable toasts
+- Bug fixes in constraint editing
+- Only send Sentry bugs in production apps
+
 ## 0.9.2
 
 - Bug fixes in property definitions
