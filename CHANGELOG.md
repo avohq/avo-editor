@@ -1,3 +1,7 @@
+## 0.10.1
+
+- Fix codegeneration when using cwd option
+
 ## 0.10.0
 
 - Bug fixes regarding file handling when opening app with CWD
