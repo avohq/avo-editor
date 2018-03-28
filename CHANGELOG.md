@@ -1,3 +1,7 @@
+## 0.11.1
+
+- Fix crash when running codegen 👨🏻‍🚒🔥🚒
+
 ## 0.11.0
 
 - Revenue event support for amplitude (you might need to toggle your analytics tool in project settings to enable it)
